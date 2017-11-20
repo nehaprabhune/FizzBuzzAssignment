@@ -21,3 +21,6 @@ But if we using file to store the final string then we can use BigInteger to inc
 ===============================================
 If I had more time to solve the problem, 
 then I would consider reusing the conditions of divide by 3 and divide by 5 instead of checking if number is divisible by 15 in the FizzBuzz class.
+
+
+Checking for the changes
